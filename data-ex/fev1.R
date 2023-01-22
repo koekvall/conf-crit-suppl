@@ -1,3 +1,5 @@
+#devtools::install_github("koekvall/lmmstest@paper-version")
+
 library(foreign)
 library(lme4)
 library(lmmstest)

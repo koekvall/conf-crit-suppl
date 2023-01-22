@@ -1,3 +1,5 @@
+#devtools::install_github("koekvall/lmmstest@paper-version")
+
 library(tictoc)
 library(lme4)
 library(lmmstest)

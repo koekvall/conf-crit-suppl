@@ -1,3 +1,5 @@
+#devtools::install_github("koekvall/lmmstest@paper-version")
+
 # Load likelihood and auxiliary functions
 source("bernoulli_funs.R")
 
